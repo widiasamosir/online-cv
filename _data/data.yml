@@ -34,156 +34,85 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Dynamic and motivated professional with a proven record of generating and building relationships, managing projects
+      from concept to completion, designing educational strategies, and coaching individuals to success.
+      Skilled in building cross-functional teams, demonstrating exceptional communication skills, and making critical decisions
+      during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, 
+      and developing opportunities that further establish organizational goals.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Undergraduate
+      university: Institut Teknologi Bandung
+      time: 2016 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Basic on Telecommunication Engineering
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: High School Graduate
+      university: SMAN 4 Pematangsiantar
+      time: 2013-2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Coordinator of Publication and Documentation
+      time: 2018 - Present
+      company: Christian Student Fellowship
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Head of Publication and Documentation Division
+      time: May 2017 - October 2017
+      company: PMB PMK ITB 2017
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+    
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+      
     assignments:
-      - title: Velocity
+      - title: Jemuran
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Alat yang dapat mengontrol jemuran yang terdapat di kosan atau rumah dengan konsep IOT (Internet of Things). 
+      Alat ini terkoneksi dengan modul GSM dan arduino beserta sensor hujan untuk mengontrol motor penggerak yang 
+      terdapat pada jemuran dan mengirimkan notifikasi kepada pengguna. "
 
-      - title: DevStudio
+      - title: Hand Gestures Input - EMSYS PROJECT
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Alat ini merupakan konsep yang berbasis IOT. Berfungsi untuk mengontrol layaknya kursor untuk menggantikan mouse pada komputer atau laptop.
+        Hal ini dapat dilakukan dengan menggunakan modul arduino dan sensornya untuk mendeteksi gerakan tangan."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Pascal
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Photoshop
         level: 98%
 
-      - name: Angular
+      - name: Illustrator
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Adobe Premiere
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: After Effects
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Arduino
         level: 60%
+        
+      - name : Communication
+        level : 80%
+     
+      - name : Photography and Videograpghy
+        level : 90%
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
